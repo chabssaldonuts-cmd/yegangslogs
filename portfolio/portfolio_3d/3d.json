@@ -1,0 +1,13 @@
+[
+  {
+    "filename": "chapel.mp4",
+    "title": "Chapel",
+    "tools": ["Blender", "Animation"],
+    "thumbnail": "chapel.png"
+  },
+  {
+    "filename": "momo.mov",
+    "title": "Momo",
+    "tools": ["Blender", "Motion"]
+  }
+]
